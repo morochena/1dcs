@@ -1,0 +1,8 @@
+[package]
+name = "1dcombat"
+version = "0.1.0"
+authors = ["Marcus Orochena <marcus@orochena.net>"]
+
+[dependencies]
+
+rand="0.3.0"
